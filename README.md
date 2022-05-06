@@ -12,5 +12,5 @@ task 2 implement the camera calibration algorithm (60%)
 - extract extrinsic parameters from M (10%)
 
 task 3 evaluation
-- Report (30%)
+- Report (30%) https://www.overleaf.com/project/626bd3a653d05d5420fbf04a 
 
